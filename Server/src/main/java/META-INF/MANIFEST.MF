@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: bluecove-2.1.0.jar jinput-2.0.7.jar jutils-1.0.0.jar jinpu
+ t-platform-2.0.7-natives-osx.jar jinput-platform-2.0.7-natives-linux.
+ jar jinput-platform-2.0.7-natives-windows.jar junit.jar pi4j-core.jar
+  pi4j-device.jar pi4j-example.jar pi4j-service.jar pi4j-core-javadoc.
+ jar pi4j-core-sources.jar pi4j-device-javadoc.jar pi4j-device-sources
+ .jar pi4j-gpio-extension.jar pi4j-example-javadoc.jar pi4j-example-so
+ urces.jar pi4j-service-javadoc.jar pi4j-service-sources.jar pi4j-gpio
+ -extension-javadoc.jar pi4j-gpio-extension-sources.jar gdx-jnigen-1.9
+ .2.jar javaparser-core-2.3.0.jar
+Main-Class: com.server.Server
+
